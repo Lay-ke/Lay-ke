@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lay-ke
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning cybersecurity 
+- 🌱 I’m currently a devops engineer
 - 📫 You can reach me on Instagram @yhawaddoo
 
 <!---
